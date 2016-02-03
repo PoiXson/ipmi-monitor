@@ -1,0 +1,1 @@
+1 * * * *  /usr/bin/ipmi-monitor -c /etc/ipmi-monitor.conf
