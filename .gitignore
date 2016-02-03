@@ -1,0 +1,9 @@
+rpmbuild-root/
+target/
+.git/
+*.rpm
+
+*.swp
+.*.swp
+*~
+
